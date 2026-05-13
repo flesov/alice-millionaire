@@ -16,11 +16,10 @@ Python 3.10 · Flask · Яндекс Диалоги · tuna
 
 ## Структура
 
-\```
-alice_millionaire/
+
 ├── app.py           # Flask-сервер, вебхук
 ├── game.py          # игровая логика
 ├── questions.py     # вопросы и денежная лестница
 ├── leaderboard.py   # таблица рекордов
 └── requirements.txt
-\```
+
